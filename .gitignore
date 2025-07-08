@@ -1,0 +1,7 @@
+data/
+draft/
+# Ignore everything inside src/
+src/*
+
+# But don't ignore files directly inside src/
+!src/*.*
